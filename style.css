@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+img{
+    padding: 0;
+    width: 100%;
+}
+.container.baniere{
+    margin: 0;
+}
+.title {
+    padding-bottom: 2em;
+}
+ul{ 
+    list-style-type: none;
+}
+    
+footer a{
+    color:white;
+}
+#birthdate{
+    padding-left: 1em;
+}
+#description p {
+    padding: 1em;
+}
+
+.btn{
+    margin: 1em;
+    color: white;
+    background-color: teal;
+    width: 200px;
+}
+.product img{
+    
+    height: 50%;
+    
+}
